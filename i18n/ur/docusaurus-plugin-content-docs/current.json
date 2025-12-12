@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": " موجودہ ورژن",
+    "description": "The label for the current version in the version dropdown"
+  },
+  "sidebar.title": {
+    "message": "کتاب درس",
+    "description": "The title of the left sidebar"
+  }
+}

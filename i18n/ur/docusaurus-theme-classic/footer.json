@@ -1,0 +1,18 @@
+{
+  "link.title.Modules": {
+    "message": "ماڈیولز",
+    "description": "The title of the footer links column with the modules links"
+  },
+  "link.title.Community": {
+    "message": "کمیونٹی",
+    "description": "The title of the footer links column with the community links"
+  },
+  "link.title.More": {
+    "message": "مزید",
+    "description": "The title of the footer links column with the more links"
+  },
+  "copyright": {
+    "message": "کاپی رائٹ © $t(newDate) گلوبل ای آئی کونسل (جی ای آئی سی). ڈوکوسورس کے ساتھ تعمیر کیا گیا۔",
+    "description": "The footer copyright"
+  }
+}

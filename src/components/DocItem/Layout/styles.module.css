@@ -1,0 +1,41 @@
+.docTitle {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid var(--ifm-color-emphasis-300);
+  padding-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.docContainer {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.bookLayout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 250px;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.contentArea {
+  min-width: 0;
+}
+
+.tocArea {
+  padding-top: 2rem;
+}
+
+@media (max-width: 996px) {
+  .bookLayout {
+    grid-template-columns: 1fr;
+    padding: 1rem 0.5rem;
+  }
+
+  .tocArea {
+    display: none;
+  }
+}
