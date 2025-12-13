@@ -13,9 +13,9 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://robo-ai-book.vercel.app', // Replace with your actual Vercel URL
+  url: 'https://robo-ai-book.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub Pages: https://<USERNAME>.github.io/<REPO>/
+  // For Vercel deployment, use '/' for root path
   baseUrl: '/',
 
   // GitHub pages deployment config.
